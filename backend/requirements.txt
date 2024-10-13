@@ -1,0 +1,8 @@
+numpy
+spleeter
+tensorflow
+flask
+pydub
+google-cloud-storage
+flask-jwt-extended
+stripe
